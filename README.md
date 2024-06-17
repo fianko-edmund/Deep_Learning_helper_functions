@@ -1,1 +1,1 @@
-# Handwritten_digits_Recognition
+# Handwritten Digits Recognition with PyTorch
